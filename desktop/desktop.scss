@@ -1,0 +1,17 @@
+.btn {
+  border: none;
+  color: #ff0303;
+  font-weight: normal;
+  background: #3fff00;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  color: #3fff00;
+  background: #ff0303;
+}
+
+.topic-list-item:hover{
+  box-shadow: 5px 5px 10px grey;
+  margin: 10px 0;
+}
