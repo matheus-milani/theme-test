@@ -13,5 +13,24 @@
 
 .topic-list-item:hover{
   box-shadow: 5px 5px 10px grey;
-  margin: 10px 0;
+}
+
+.topic-list-item.category-staff:hover{
+  box-shadow: 5px 5px 10px blue;
+}
+
+.category-staff{
+  border-left: 5px solid blue;
+}
+
+.banner-top{
+    background-image: url(https://wallpaperscraft.com/image/wood_cold_darkness_snow_54960_2560x1024.jpg);
+    height: 600px;
+    background-clip: border-box;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.d-header {
+  background: #7adcdf;
 }
