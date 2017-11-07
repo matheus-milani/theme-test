@@ -56,3 +56,12 @@
 .d-header {
   background: #7adcdf;
 }
+
+.troll-appear{
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  top: 50px;
+  z-index: -1;
+  left: 20px;
+}
