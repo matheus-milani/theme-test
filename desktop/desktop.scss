@@ -35,6 +35,16 @@
   transition: border 1s;
 }
 
+.topic-list-item.category-lounge:hover{
+  box-shadow: 5px 5px 10px grey;
+  border-left: 10px solid grey;
+}
+
+.category-lounge{
+  border-left: 5px solid grey;
+  transition: border 1s;
+}
+
 .banner-top{
     background-image: url(https://wallpaperscraft.com/image/wood_cold_darkness_snow_54960_2560x1024.jpg);
     height: 600px;
