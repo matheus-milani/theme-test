@@ -1,6 +1,10 @@
 .troll-appear{
-  visibility: hidden;
+  display: none;
 }
 .banner-top{
   display: none;
+}
+
+.topic-list-item{
+  min-height: 100px;
 }
